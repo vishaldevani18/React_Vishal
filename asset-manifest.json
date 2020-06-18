@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React_Vishal/static/css/main.a8de3944.chunk.css",
-    "main.js": "/React_Vishal/static/js/main.98de221e.chunk.js",
-    "main.js.map": "/React_Vishal/static/js/main.98de221e.chunk.js.map",
+    "main.css": "/React_Vishal/static/css/main.567f7e17.chunk.css",
+    "main.js": "/React_Vishal/static/js/main.34419f50.chunk.js",
+    "main.js.map": "/React_Vishal/static/js/main.34419f50.chunk.js.map",
     "runtime-main.js": "/React_Vishal/static/js/runtime-main.96836dad.js",
     "runtime-main.js.map": "/React_Vishal/static/js/runtime-main.96836dad.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/React_Vishal/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.311a1400.chunk.js": "/React_Vishal/static/js/2.311a1400.chunk.js",
-    "static/js/2.311a1400.chunk.js.map": "/React_Vishal/static/js/2.311a1400.chunk.js.map",
+    "static/css/2.e027bea5.chunk.css": "/React_Vishal/static/css/2.e027bea5.chunk.css",
+    "static/js/2.61d48a74.chunk.js": "/React_Vishal/static/js/2.61d48a74.chunk.js",
+    "static/js/2.61d48a74.chunk.js.map": "/React_Vishal/static/js/2.61d48a74.chunk.js.map",
     "index.html": "/React_Vishal/index.html",
-    "precache-manifest.72e6e20b9b479943fd96b0e83dd946e0.js": "/React_Vishal/precache-manifest.72e6e20b9b479943fd96b0e83dd946e0.js",
+    "precache-manifest.0e43d4e1ebc7d77c4671f96ee9d40274.js": "/React_Vishal/precache-manifest.0e43d4e1ebc7d77c4671f96ee9d40274.js",
     "service-worker.js": "/React_Vishal/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/React_Vishal/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.a8de3944.chunk.css.map": "/React_Vishal/static/css/main.a8de3944.chunk.css.map",
-    "static/js/2.311a1400.chunk.js.LICENSE.txt": "/React_Vishal/static/js/2.311a1400.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/React_Vishal/static/media/logo.ee7cd8ed.svg"
+    "static/css/2.e027bea5.chunk.css.map": "/React_Vishal/static/css/2.e027bea5.chunk.css.map",
+    "static/css/main.567f7e17.chunk.css.map": "/React_Vishal/static/css/main.567f7e17.chunk.css.map",
+    "static/js/2.61d48a74.chunk.js.LICENSE.txt": "/React_Vishal/static/js/2.61d48a74.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/React_Vishal/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.96836dad.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.311a1400.chunk.js",
-    "static/css/main.a8de3944.chunk.css",
-    "static/js/main.98de221e.chunk.js"
+    "static/css/2.e027bea5.chunk.css",
+    "static/js/2.61d48a74.chunk.js",
+    "static/css/main.567f7e17.chunk.css",
+    "static/js/main.34419f50.chunk.js"
   ]
 }
