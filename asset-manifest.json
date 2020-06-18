@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React_Vishal/static/css/main.567f7e17.chunk.css",
-    "main.js": "/React_Vishal/static/js/main.34419f50.chunk.js",
-    "main.js.map": "/React_Vishal/static/js/main.34419f50.chunk.js.map",
+    "main.js": "/React_Vishal/static/js/main.dd8a21a8.chunk.js",
+    "main.js.map": "/React_Vishal/static/js/main.dd8a21a8.chunk.js.map",
     "runtime-main.js": "/React_Vishal/static/js/runtime-main.96836dad.js",
     "runtime-main.js.map": "/React_Vishal/static/js/runtime-main.96836dad.js.map",
     "static/css/2.e027bea5.chunk.css": "/React_Vishal/static/css/2.e027bea5.chunk.css",
     "static/js/2.61d48a74.chunk.js": "/React_Vishal/static/js/2.61d48a74.chunk.js",
     "static/js/2.61d48a74.chunk.js.map": "/React_Vishal/static/js/2.61d48a74.chunk.js.map",
     "index.html": "/React_Vishal/index.html",
-    "precache-manifest.0e43d4e1ebc7d77c4671f96ee9d40274.js": "/React_Vishal/precache-manifest.0e43d4e1ebc7d77c4671f96ee9d40274.js",
+    "precache-manifest.33a44351f76fbbc1ef03db8e44cf6083.js": "/React_Vishal/precache-manifest.33a44351f76fbbc1ef03db8e44cf6083.js",
     "service-worker.js": "/React_Vishal/service-worker.js",
     "static/css/2.e027bea5.chunk.css.map": "/React_Vishal/static/css/2.e027bea5.chunk.css.map",
     "static/css/main.567f7e17.chunk.css.map": "/React_Vishal/static/css/main.567f7e17.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.e027bea5.chunk.css",
     "static/js/2.61d48a74.chunk.js",
     "static/css/main.567f7e17.chunk.css",
-    "static/js/main.34419f50.chunk.js"
+    "static/js/main.dd8a21a8.chunk.js"
   ]
 }
