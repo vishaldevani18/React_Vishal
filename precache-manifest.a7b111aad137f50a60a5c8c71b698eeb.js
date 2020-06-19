@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1e0a30ca4b4866b863570b93779e842",
+    "revision": "5e6dfc28ebef8fdde9a1a8bf9af00de6",
     "url": "/React_Vishal/index.html"
   },
   {
-    "revision": "ce11c960f68172e33c61",
+    "revision": "7a5b665d11ae27f639f7",
     "url": "/React_Vishal/static/css/2.e027bea5.chunk.css"
   },
   {
-    "revision": "9cf9d394e982ccd328a4",
-    "url": "/React_Vishal/static/css/main.567f7e17.chunk.css"
+    "revision": "a4d54822b6204801ab94",
+    "url": "/React_Vishal/static/css/main.bcb2fee3.chunk.css"
   },
   {
-    "revision": "ce11c960f68172e33c61",
-    "url": "/React_Vishal/static/js/2.61d48a74.chunk.js"
+    "revision": "7a5b665d11ae27f639f7",
+    "url": "/React_Vishal/static/js/2.a69c37b9.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/React_Vishal/static/js/2.61d48a74.chunk.js.LICENSE.txt"
+    "url": "/React_Vishal/static/js/2.a69c37b9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cf9d394e982ccd328a4",
-    "url": "/React_Vishal/static/js/main.dd8a21a8.chunk.js"
+    "revision": "a4d54822b6204801ab94",
+    "url": "/React_Vishal/static/js/main.65cd4682.chunk.js"
   },
   {
     "revision": "375e4dc9e92e50e7384d",
