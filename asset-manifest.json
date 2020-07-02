@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_Vishal/static/css/main.59003d7b.chunk.css",
+    "main.css": "/React_Vishal/static/css/main.7559f3db.chunk.css",
     "main.js": "/React_Vishal/static/js/main.25e83e0f.chunk.js",
     "main.js.map": "/React_Vishal/static/js/main.25e83e0f.chunk.js.map",
     "runtime-main.js": "/React_Vishal/static/js/runtime-main.96836dad.js",
@@ -9,10 +9,10 @@
     "static/js/2.ae01120c.chunk.js": "/React_Vishal/static/js/2.ae01120c.chunk.js",
     "static/js/2.ae01120c.chunk.js.map": "/React_Vishal/static/js/2.ae01120c.chunk.js.map",
     "index.html": "/React_Vishal/index.html",
-    "precache-manifest.7e8aaa21c115d17e6052f4d1729e7a5a.js": "/React_Vishal/precache-manifest.7e8aaa21c115d17e6052f4d1729e7a5a.js",
+    "precache-manifest.aa561fd96fdae1cd8388fb7839e54a2f.js": "/React_Vishal/precache-manifest.aa561fd96fdae1cd8388fb7839e54a2f.js",
     "service-worker.js": "/React_Vishal/service-worker.js",
     "static/css/2.e027bea5.chunk.css.map": "/React_Vishal/static/css/2.e027bea5.chunk.css.map",
-    "static/css/main.59003d7b.chunk.css.map": "/React_Vishal/static/css/main.59003d7b.chunk.css.map",
+    "static/css/main.7559f3db.chunk.css.map": "/React_Vishal/static/css/main.7559f3db.chunk.css.map",
     "static/js/2.ae01120c.chunk.js.LICENSE.txt": "/React_Vishal/static/js/2.ae01120c.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/React_Vishal/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/logo.svg": "/React_Vishal/static/media/logo.ee7cd8ed.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.96836dad.js",
     "static/css/2.e027bea5.chunk.css",
     "static/js/2.ae01120c.chunk.js",
-    "static/css/main.59003d7b.chunk.css",
+    "static/css/main.7559f3db.chunk.css",
     "static/js/main.25e83e0f.chunk.js"
   ]
 }
